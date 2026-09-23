@@ -27,7 +27,7 @@ I'm **Yusra Nasir**, a Computer Science student interested in programming, Data 
 
 I enjoy learning new concepts, experimenting with code, and developing my technical skills through practice and projects.
 
- Areas of Interest
+ ### Areas of Interest
 
 <div align="center">
 
