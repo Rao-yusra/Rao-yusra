@@ -75,7 +75,7 @@ Learning the concepts behind Artificial Intelligence and Machine Learning and di
 
  GITHUB SNAPSHOT
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rao-yusra&show_icons=true&hide_border=true&rank_icon=github" height="170"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rao-yusra&layout=compact&hide_border=true" height="150"/></p>---
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rao-yusra&show_icons=true&hide_border=true&rank_icon=github" height="170"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rao-yusra&layout=compact&hide_border=true" height="150"/></p>
 
  A LITTLE ABOUT MY APPROACH
 
