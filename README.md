@@ -4,7 +4,7 @@ Computer Science Student | Python | AI & Machine Learning
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rao-yusra&label=Profile%20Views&color=7B68EE&style=flat-square" alt="Profile Views">
-</p>---
+</p>
 
 INTRODUCTION
 
@@ -13,7 +13,6 @@ A Computer Science student exploring Python, Data Science, Artificial Intelligen
 
 My GitHub is where I keep track of the things I'm learning, experimenting with, and building along the way.»
 
----
 
  SKILL MAP
 
@@ -29,7 +28,7 @@ Area| Technologies / Concepts
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/></p><p align="center">
 <strong>Python</strong>
-</p>---
+</p>
 
 LEARNING PATH
 
