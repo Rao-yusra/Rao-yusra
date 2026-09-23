@@ -6,7 +6,7 @@ Computer Science Student | Python | AI & Machine Learning
   <img src="https://komarev.com/ghpvc/?username=Rao-yusra&label=Profile%20Views&color=7B68EE&style=flat-square" alt="Profile Views">
 </p>---
 
-"01" — INTRODUCTION
+INTRODUCTION
 
 «Hello! I'm Yusra Nasir.
 A Computer Science student exploring Python, Data Science, Artificial Intelligence, and Machine Learning.
@@ -15,7 +15,7 @@ My GitHub is where I keep track of the things I'm learning, experimenting with, 
 
 ---
 
-"02" — SKILL MAP
+ SKILL MAP
 
 Area| Technologies / Concepts
 🐍 Programming| Python ,Java ,C,C++
@@ -24,15 +24,14 @@ Area| Technologies / Concepts
 🧠 ML| Machine Learning Fundamentals
 💡 Core| Problem Solving • Programming Fundamentals
 
----
 
-"03" — TECHNOLOGY
+ TECHNOLOGY
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/></p><p align="center">
 <strong>Python</strong>
 </p>---
 
-"04" — LEARNING PATH
+LEARNING PATH
 
               COMPUTER SCIENCE
                      │
@@ -51,9 +50,8 @@ Area| Technologies / Concepts
                      ▼
              MACHINE LEARNING
 
----
 
-"05" — FOCUS AREAS
+FOCUS AREAS
 
 🧩 Programming
 
@@ -67,9 +65,7 @@ Exploring how data can be processed, analyzed, and interpreted.
 
 Learning the concepts behind Artificial Intelligence and Machine Learning and discovering how they are applied to real-world problems.
 
----
-
-"06" — OBJECTIVES
+ OBJECTIVES
 
 - Build a strong foundation in Python
 - Practice through real projects
@@ -78,13 +74,11 @@ Learning the concepts behind Artificial Intelligence and Machine Learning and di
 - Improve logical and problem-solving skills
 - Turn learning into practical work
 
----
-
-"07" — GITHUB SNAPSHOT
+ GITHUB SNAPSHOT
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rao-yusra&show_icons=true&hide_border=true&rank_icon=github" height="170"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rao-yusra&layout=compact&hide_border=true" height="150"/></p>---
 
-"08" — A LITTLE ABOUT MY APPROACH
+ A LITTLE ABOUT MY APPROACH
 
 LEARN
   ↓
@@ -98,13 +92,10 @@ IMPROVE
 
 I believe technology becomes easier to understand when concepts are followed by practice and experimentation.
 
----
-
-"09" — INTERESTS
+INTERESTS
 
 "Python"  "AI"  "Machine Learning"  "Data Science"  "Programming"
 
----
 
 FIND ME HERE
 
